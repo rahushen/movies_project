@@ -7,7 +7,7 @@ In this project I built a Movie Trailer Website where users can see my favorite 
 
 - [Install](#install)
 - [Quick start](#quick-start)
-- [Creators](#creators)
+- [Creator](#creator)
 
 ## Install
 
